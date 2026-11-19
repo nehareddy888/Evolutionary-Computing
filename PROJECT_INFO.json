@@ -1,0 +1,8 @@
+{
+  "title": "Cloud Computing Task Scheduling Using Hybrid Genetic Algorithm",
+  "version": "1.0.0",
+  "language": "Python 3.10+",
+  "description": "Educational simulation of independent-task scheduling across heterogeneous VMs using Random, Min-Min, and hybrid GA methods.",
+  "entry_point": "python -m cloud_scheduler.cli",
+  "license": "Academic use"
+}
